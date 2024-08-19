@@ -1,4 +1,4 @@
 [submodule "docs/source/_src_getting_started/_src_examples/notebooks/foopy-examples"]
 	path = docs/source/_src_getting_started/_src_examples/notebooks/foopy-examples
 	url = https://github.com/larshinueber/foopy-examples.git
-	branch = main
+	branch = submodules
